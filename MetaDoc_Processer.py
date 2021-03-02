@@ -164,7 +164,7 @@ if __name__ == '__main__':
 
                     pass
 
-    ramirez_full_excel = pd.concat(output, sort=False)
+    XYZ_full_excel = pd.concat(output, sort=False)
 
 
     dfs = {'XYZ Full Records': XYZ_full_excel}
